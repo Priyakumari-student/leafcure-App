@@ -16,10 +16,11 @@ if uploaded_file:
     st.write("Tomato Leaf Curl Virus (Confidence: 97.5%)")
 
     st.subheader("Cure and Prevention Tips:")
-    st.write("• Remove infected plants")
-• Use virus-free seeds
-• Apply neem oil")
-
+    st.write("""
+    • Remove infected plants
+    • Use virus-free seeds
+    • Apply neem oil
+    """)
 st.markdown("---")
 st.subheader("Feedback")
 name = st.text_input("Your Name")
