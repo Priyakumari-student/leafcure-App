@@ -16,7 +16,7 @@ if uploaded_file:
     st.write("Tomato Leaf Curl Virus (Confidence: 97.5%)")
 
     st.subheader("Cure and Prevention Tips:")
-    st.write("• Remove infected plants
+    st.write("• Remove infected plants")
 • Use virus-free seeds
 • Apply neem oil")
 
